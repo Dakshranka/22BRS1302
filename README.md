@@ -1,5 +1,4 @@
 Project Overview->
-This repository contains the tasks assigned for the Frontend Developer Intern position. 
 The primary objective is to develop a web application that fetches data from an external API, visualizes the data through graphs, and provides a clean user interface (UI) with filtering capabilities.
 
 Tasks->
